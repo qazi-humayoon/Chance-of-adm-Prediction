@@ -1,1 +1,1 @@
-# Chance-of-adm-Predicton
+# Chance-of-Admission-Predicton
